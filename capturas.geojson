@@ -3,7 +3,7 @@
 "name": "capturas",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Id": 1, "Trampa": "1A", "Localizaci": "Manjarrés", "X": 526412, "Y": 4694172, "Z": 603, "Capturas": 556, "longitude": -3.0, "latitude": 42.0 }, "geometry": { "type": "Point", "coordinates": [ -2.679067836189381, 42.399394806850161 ] },"style":{"icon":{"iconUrl":"https://apigeo.larioja.org/img_punto.php?e=91270","iconSize":[32,37],"iconAnchor":[16,37],"popupAnchor":[0,-18.5]}}}x,
+{ "type": "Feature", "properties": { "Id": 1, "Trampa": "1A", "Localizaci": "Manjarrés", "X": 526412, "Y": 4694172, "Z": 603, "Capturas": 556, "longitude": -3.0, "latitude": 42.0 }, "geometry": { "type": "Point", "coordinates": [ -2.679067836189381, 42.399394806850161 ] } },
 { "type": "Feature", "properties": { "Id": 2, "Trampa": "1B", "Localizaci": "Manjarrés", "X": 526465, "Y": 4694196, "Z": 601, "Capturas": 403, "longitude": -3.0, "latitude": 42.0 }, "geometry": { "type": "Point", "coordinates": [ -2.678422739468913, 42.399609143748009 ] } },
 { "type": "Feature", "properties": { "Id": 3, "Trampa": "2A", "Localizaci": "Huércanos", "X": 526558, "Y": 4699083, "Z": 524, "Capturas": 943, "longitude": -3.0, "latitude": 42.0 }, "geometry": { "type": "Point", "coordinates": [ -2.677066934273199, 42.443617607045724 ] } },
 { "type": "Feature", "properties": { "Id": 4, "Trampa": "2B", "Localizaci": "Huércanos", "X": 526563, "Y": 4699153, "Z": 520, "Capturas": 893, "longitude": -3.0, "latitude": 42.0 }, "geometry": { "type": "Point", "coordinates": [ -2.677002899277475, 42.444247843487666 ] } },
